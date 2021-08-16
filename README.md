@@ -1,2 +1,2 @@
 # Beginner-Python
-my beginner python class
+My beginner python class, find all the code here!
